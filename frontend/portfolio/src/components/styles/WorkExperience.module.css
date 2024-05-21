@@ -1,0 +1,24 @@
+/* WorkExperience.module.css */
+.workExperience {
+    background-color: #eef1f5;
+    padding: 20px;
+    border-left: 4px solid #0077b5;
+    margin-bottom: 20px;
+}
+
+.job {
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+.job h3 {
+    font-size: 20px;
+    color: #0056b3;
+    margin: 5px 0;
+}
+
+.job p {
+    font-size: 16px;
+    color: #444;
+    display: none; /* initially hidden, can be toggled */
+}

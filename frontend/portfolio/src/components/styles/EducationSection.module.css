@@ -1,0 +1,28 @@
+/* EducationSection.module.css */
+.education {
+    background-color: #fff;
+    padding: 20px;
+    border-left: 4px solid #0056b3; /* A deep blue to highlight the section */
+    margin: 20px 0;
+}
+
+.entry {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+.entry:last-child {
+    border-bottom: none;
+}
+
+.entry h3 {
+    font-size: 20px;
+    color: #333;
+    margin: 5px 0;
+}
+
+.entry p {
+    font-size: 16px;
+    color: #666;
+}
